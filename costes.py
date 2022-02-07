@@ -19,3 +19,4 @@ data["Coste"]=np.where(data["ReqGRES"] != "",((data['CPUTimeRAW']/data['NCPUS'])
 
 
 print(np.round(data["Coste"].sum(),2))
+#Cambioen v2
